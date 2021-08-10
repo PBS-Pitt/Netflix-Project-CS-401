@@ -1,0 +1,41 @@
+Title: Breaking Bad
+Viewer Rating: TV-MA
+Description: Breaking Bad is an American television drama series created by Vince Gilligan, which premiered in 2008 on the cable network AMC. It revolves around Walter White (Bryan Cranston), a 50-year-old high school chemistry teacher in Albuquerque, New Mexico. After White is diagnosed with lung cancer, he uses his chemistry knowledge to cook crystal meth with his former student Jesse Pinkman (Aaron Paul), in order to secure his family's (played by Anna Gunn and RJ Mitte) financial  future before he dies from the disease.
+Cast: Bryan Cranston; Anna Gunn; Aaron Paul; Dean Norris; Betsy Brandt; RJ Mitte
+Number of Seasons: 3
+Season: 1
+1;1;Pilot;1/20/2008
+2;2;Cat's in the Bag...;1/21/2008
+3;3;...And the Bag's in the River;1/22/2008
+4;4;Cancer Man;1/23/2008
+5;5;Gray Matter;1/24/2008
+6;6;Crazy Handful of Nothin';1/25/2008
+7;7;A No-Rough-Stuff-Type Deal;1/26/2008
+Season: 2
+8;1;Seven Thirty-Seven;3/8/2009
+9;2;Grilled;3/15/2009
+10;3;Bit by a Dead Bee;3/22/2009
+11;4;Down;3/29/2009
+12;5;Breakage;4/5/2009
+13;6;Peekaboo;4/12/2009
+14;7;Negro y Azul;4/19/2009
+15;8;Better Call Saul;4/26/2009
+16;9;4 Days Out;5/3/2009
+17;10;Over;5/10/2009
+18;11;Mandala;5/17/2009
+19;12;Phoenix;5/24/2009
+20;13;ABQ;5/31/2009
+Season: 3
+21;1;No MÃ¡s;3/21/2010
+22;2;Caballo sin Nombre;3/28/2010
+23;3;I.F.T.;4/4/2010
+24;4;Green Light;4/11/2010
+25;5;Mas;4/18/2010
+26;6;Sunset;4/25/2010
+27;7;One Minute;5/2/2010
+28;8;I See You;5/9/2010
+29;9;Kafkaesque;5/16/2010
+30;10;Fly;5/23/2010
+31;11;Abiquiu;5/30/2010
+32;12;Half Measures;6/6/2010
+33;13;Full Measure;6/13/2010

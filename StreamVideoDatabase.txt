@@ -1,0 +1,4 @@
+tv_show = /Users/Pau/NetBeansProjects/netflix/src/netflix/BreakingBad.txt
+tv_show = /Users/Pau/NetBeansProjects/netflix/src/netflix/TheOffice.txt
+movie = /Users/Pau/NetBeansProjects/netflix/src/netflix/BeautyAndTheBeast.txt
+movie = /Users/Pau/NetBeansProjects/netflix/src/netflix/TheMatrix.txt

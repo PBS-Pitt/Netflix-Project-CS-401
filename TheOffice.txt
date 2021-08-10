@@ -1,0 +1,59 @@
+Title: The Office
+Viewer Rating: PG-13
+Description: The Office is an American television sitcom broadcast on NBC. Created as an adaptation by Greg Daniels of the British series of the same name, it is a mockumentary that follows the day-to-day lives of the employees of the Scranton, Pennsylvania branch of Dunder Mifflin, a fictional paper supply company.[1] The series ran on NBC in the United States from March 24, 2005 to May 16, 2013. Additionally, nine spin-off series of webisodes of The Office have been aired on NBC.com.
+Cast: Steve Carell; Rainn Wilson; John Krasinski; Jenna Fischer; B. J. Novak
+Number of Seasons: 3
+Season: 1
+1;1;Pilot;3/24/2005
+2;2;Diversity Day;3/29/2005
+3;3;Health Care;4/5/2005
+4;4;The Alliance;4/12/2005
+5;5;Basketball;4/19/2005
+6;6;Hot Girl;4/26/2005
+Season: 2
+7;1;The Dundies;9/20/2005
+8;2;Sexual Harassment;9/27/2005
+9;3;Office Olympics;10/4/2005
+10;4;The Fire;10/11/2005
+11;5;Halloween;10/18/2005
+12;6;The Fight;11/1/2005
+13;7;The Client;11/8/2005
+14;8;Performance Review;11/15/2005
+15;9;Email Surveillance;11/22/2005
+16;10;Christmas Party;12/6/2005
+17;11;Booze Cruise;1/5/2006
+18;12;The Injury;1/12/2006
+19;13;The Secret;1/19/2006
+20;14;The Carpet;1/26/2006
+21;15;Boys and Girls;2/2/2006
+22;16;Valentine's Day;2/9/2006
+23;17;Dwight's Speech;3/2/2006
+24;18;Take Your Daughter to Work Day;3/16/2006
+25;19;Michael's Birthday;3/30/2006
+26;20;Drug Testing;4/27/2006
+27;21;Conflict Resolution;5/4/2006
+28;22;Casino Night;5/11/2006
+Season: 3
+29;1;Gay Witch Hunt;9/21/2006
+30;2;The Convention;9/28/2006
+31;3;The Coup;10/5/2006
+32;4;Grief Counseling;10/12/2006
+33;5;Initiation;10/19/2006
+34;6;Diwali;11/2/2006
+35;7;Branch Closing;11/9/2006
+36;8;The Merger;11/16/2006
+37;9;The Convict;11/30/2006
+38;10;A Benihana Christmas;12/14/2006
+40;12;Back from Vacation;1/4/2007
+41;13;Traveling Salesmen;1/11/2007
+42;14;The Return;1/18/2007
+43;15;Ben Franklin;2/1/2007
+44;16;Phyllis' Wedding;2/8/2007
+45;17;Business School;2/15/2007
+46;18;Cocktails;2/22/2007
+47;19;The Negotiation;4/5/2007
+48;20;Safety Training;4/12/2007
+49;21;Product Recall;4/26/2007
+50;22;Women's Appreciation;5/3/2007
+51;23;Beach Games;5/10/2007
+52;24;The Job;5/17/2007
